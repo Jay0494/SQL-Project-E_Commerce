@@ -145,3 +145,62 @@ JOIN dim_category cat
     ON s.Category = cat.Category;
     
 SELECT * FROM fact_orders;    
+
+
+-- INSIGHTS
+-- top 5 selling products 
+SELECT  
+	p.Product, 
+    SUM(f.Total_sales) AS Revenue
+FROM fact_orders f
+JOIN dim_product p
+		ON f.Product_ID = p.Product_ID
+GROUP BY p.Product
+ORDER BY Revenue DESC
+lIMIT 5;        
+
+
+-- BEST SELLING CATEGORIES
+SELECT  
+	c.Category, 
+    SUM(f.Total_sales) AS Revenue
+FROM fact_orders f
+JOIN dim_category c
+		ON f.Category_ID = c.Category_ID
+GROUP BY c.Category
+ORDER BY Revenue DESC;    
+
+
+-- REVENUE BY CITY
+SELECT  
+	ci.City, 
+    SUM(f.Total_sales) AS Revenue
+FROM fact_orders f
+JOIN dim_city ci
+		ON f.City_ID = ci.City_ID
+GROUP BY ci.City
+ORDER BY Revenue DESC;   
+
+
+
+-- KPI
+
+SELECT
+    'Revenue' AS Metric,
+    SUM(Total_sales) AS Value
+FROM fact_orders
+
+UNION ALL
+
+SELECT
+    'Total Quantity',
+    SUM(Quantity)
+FROM fact_orders
+
+UNION ALL
+
+SELECT
+    'Total Orders',
+    COUNT(Order_ID)
+FROM fact_orders;
+
