@@ -1,0 +1,1001 @@
+Order_ID,Product,Category,Quantity,Price,City,Date
+ORD1001,Backpack,Accessories,1,1629.0,Hyderabad,2026-03-04
+ORD1002,Keyboard,Electronics,2,1570.94,Surat,2026-01-23
+ORD1003,Book,Books,4,407.86,Mumbai,2026-02-25
+ORD1004,Keyboard,Electronics,5,1530.61,Surat,2026-02-20
+ORD1005,Tablet,Electronics,5,27549.31,Jaipur,2026-05-31
+ORD1006,T-Shirt,Fashion,1,840.36,Delhi,2026-06-28
+ORD1007,Watch,Accessories,3,4776.92,Bangalore,2026-03-28
+ORD1008,Smartphone,Electronics,1,17567.74,Pune,2026-03-30
+ORD1009,Book,Books,3,477.64,Jaipur,2026-05-18
+ORD1010,Smartphone,Electronics,4,16483.68,Hyderabad,2026-06-10
+ORD1011,Book,Books,3,456.96,Mumbai,2026-01-12
+ORD1012,Backpack,Accessories,2,1898.3,Mumbai,2026-03-01
+ORD1013,Air Fryer,Home Appliances,1,6344.16,Jaipur,2026-06-12
+ORD1014,Air Fryer,Home Appliances,3,6061.45,Pune,2026-02-23
+ORD1015,Backpack,Accessories,3,1872.66,Mumbai,2026-06-05
+ORD1016,Backpack,Accessories,2,1812.29,Bangalore,2026-02-11
+ORD1017,Mixer,Home Appliances,4,3338.96,Surat,2026-02-26
+ORD1018,Backpack,Accessories,3,1923.43,Ahmedabad,2026-02-28
+ORD1019,Air Fryer,Home Appliances,1,6896.56,Chennai,2026-03-10
+ORD1020,Smartphone,Electronics,2,19487.29,Kolkata,2026-03-22
+ORD1021,Keyboard,Electronics,4,1468.69,Jaipur,2026-02-06
+ORD1022,T-Shirt,Fashion,2,758.51,Surat,2026-05-18
+ORD1023,T-Shirt,Fashion,5,787.56,Kolkata,2026-04-13
+ORD1024,Shoes,Fashion,2,2747.56,Delhi,2026-05-11
+ORD1025,Mixer,Home Appliances,1,3679.05,Mumbai,2026-02-09
+ORD1026,Backpack,Accessories,2,1905.15,Chennai,2026-06-02
+ORD1027,Smartphone,Electronics,4,17573.83,Jaipur,2026-05-16
+ORD1028,T-Shirt,Fashion,5,856.65,Ahmedabad,2026-06-24
+ORD1029,Tablet,Electronics,1,29017.58,Surat,2026-03-10
+ORD1030,Jeans,Fashion,3,1843.7,Chennai,2026-02-10
+ORD1031,Mixer,Home Appliances,1,3817.67,Hyderabad,2026-05-09
+ORD1032,Jeans,Fashion,2,2002.07,Mumbai,2026-06-10
+ORD1033,T-Shirt,Fashion,5,816.41,Delhi,2026-04-06
+ORD1034,Jeans,Fashion,2,2014.74,Surat,2026-01-01
+ORD1035,Book,Books,3,448.97,Mumbai,2026-04-03
+ORD1036,Air Fryer,Home Appliances,3,6161.29,Bangalore,2026-05-26
+ORD1037,Smartphone,Electronics,1,18834.87,Mumbai,2026-05-17
+ORD1038,Jeans,Fashion,2,1850.43,Jaipur,2026-05-21
+ORD1039,Headphones,Electronics,3,2212.18,Kolkata,2026-04-19
+ORD1040,Keyboard,Electronics,5,1576.58,Bangalore,2026-03-21
+ORD1041,Watch,Accessories,3,4937.11,Surat,2026-04-26
+ORD1042,Smartphone,Electronics,2,17008.91,Pune,2026-01-06
+ORD1043,Book,Books,5,425.71,Bangalore,2026-01-02
+ORD1044,Smartphone,Electronics,1,17024.19,Ahmedabad,2026-03-26
+ORD1045,Smartphone,Electronics,5,17056.82,Jaipur,2026-02-24
+ORD1046,Coffee Maker,Home Appliances,2,4387.62,Kolkata,2026-05-28
+ORD1047,Mixer,Home Appliances,2,3699.23,Chennai,2026-02-18
+ORD1048,Smartphone,Electronics,1,18572.34,Pune,2026-04-19
+ORD1049,Watch,Accessories,4,5362.76,Ahmedabad,2026-06-22
+ORD1050,Backpack,Accessories,1,1641.82,Pune,2026-01-28
+ORD1051,Keyboard,Electronics,2,1407.06,Jaipur,2026-02-05
+ORD1052,Watch,Accessories,2,4777.59,Bangalore,2026-01-20
+ORD1053,Mixer,Home Appliances,5,3218.54,Surat,2026-01-04
+ORD1054,Smartphone,Electronics,2,16798.72,Jaipur,2026-05-04
+ORD1055,Keyboard,Electronics,4,1620.73,Delhi,2026-04-08
+ORD1056,Laptop,Electronics,4,52417.23,Jaipur,2026-03-15
+ORD1057,Watch,Accessories,5,5160.84,Jaipur,2026-02-09
+ORD1058,Keyboard,Electronics,3,1415.31,Ahmedabad,2026-05-29
+ORD1059,Tablet,Electronics,5,25541.36,Pune,2026-01-15
+ORD1060,Laptop,Electronics,5,54744.67,Surat,2026-02-10
+ORD1061,Laptop,Electronics,5,50381.23,Delhi,2026-01-18
+ORD1062,Book,Books,1,465.77,Bangalore,2026-04-14
+ORD1063,Smartphone,Electronics,5,17086.38,Kolkata,2026-01-11
+ORD1064,Book,Books,1,442.73,Kolkata,2026-05-25
+ORD1065,Coffee Maker,Home Appliances,3,4565.15,Bangalore,2026-06-21
+ORD1066,Tablet,Electronics,3,26536.64,Chennai,2026-02-03
+ORD1067,Backpack,Accessories,3,1784.6,Mumbai,2026-01-03
+ORD1068,Mixer,Home Appliances,5,3848.92,Mumbai,2026-01-19
+ORD1069,Coffee Maker,Home Appliances,2,4204.94,Delhi,2026-03-31
+ORD1070,Smartphone,Electronics,2,17530.3,Delhi,2026-04-23
+ORD1071,Air Fryer,Home Appliances,5,6764.6,Kolkata,2026-06-17
+ORD1072,Coffee Maker,Home Appliances,1,4341.01,Surat,2026-03-18
+ORD1073,Backpack,Accessories,1,1958.01,Delhi,2026-03-09
+ORD1074,Smartphone,Electronics,1,18872.7,Delhi,2026-03-11
+ORD1075,T-Shirt,Fashion,5,752.76,Pune,2026-02-22
+ORD1076,Backpack,Accessories,3,1801.95,Hyderabad,2026-01-14
+ORD1077,Smartphone,Electronics,4,19185.65,Ahmedabad,2026-01-01
+ORD1078,Shoes,Fashion,2,2567.53,Hyderabad,2026-02-11
+ORD1079,Tablet,Electronics,4,28289.41,Chennai,2026-05-24
+ORD1080,Laptop,Electronics,1,50327.68,Delhi,2026-05-20
+ORD1081,Laptop,Electronics,3,55907.61,Delhi,2026-04-21
+ORD1082,Headphones,Electronics,1,2115.63,Ahmedabad,2026-04-02
+ORD1083,Keyboard,Electronics,2,1550.08,Pune,2026-05-24
+ORD1084,Air Fryer,Home Appliances,4,7115.99,Delhi,2026-03-02
+ORD1085,Air Fryer,Home Appliances,2,7119.07,Delhi,2026-04-16
+ORD1086,Laptop,Electronics,2,57602.21,Pune,2026-04-16
+ORD1087,Jeans,Fashion,2,1905.77,Mumbai,2026-04-08
+ORD1088,Air Fryer,Home Appliances,1,6966.17,Bangalore,2026-02-21
+ORD1089,Air Fryer,Home Appliances,4,6304.56,Bangalore,2026-02-27
+ORD1090,Laptop,Electronics,2,53883.13,Hyderabad,2026-01-18
+ORD1091,Jeans,Fashion,3,1939.49,Surat,2026-04-13
+ORD1092,Backpack,Accessories,5,1739.21,Ahmedabad,2026-01-30
+ORD1093,T-Shirt,Fashion,2,811.88,Hyderabad,2026-01-10
+ORD1094,Smartphone,Electronics,5,17764.43,Pune,2026-04-22
+ORD1095,Book,Books,5,415.41,Kolkata,2026-02-18
+ORD1096,T-Shirt,Fashion,1,832.36,Ahmedabad,2026-05-14
+ORD1097,Jeans,Fashion,5,2073.71,Bangalore,2026-04-04
+ORD1098,Watch,Accessories,1,5447.78,Pune,2026-06-09
+ORD1099,Shoes,Fashion,1,2608.83,Hyderabad,2026-05-10
+ORD1100,T-Shirt,Fashion,4,771.22,Hyderabad,2026-05-22
+ORD1101,Headphones,Electronics,2,2165.0,Chennai,2026-06-23
+ORD1102,Tablet,Electronics,2,28646.88,Hyderabad,2026-04-14
+ORD1103,Coffee Maker,Home Appliances,1,4035.25,Bangalore,2026-04-21
+ORD1104,Jeans,Fashion,5,2041.64,Pune,2026-04-30
+ORD1105,Mixer,Home Appliances,4,3622.94,Surat,2026-05-02
+ORD1106,Jeans,Fashion,2,2062.51,Hyderabad,2026-05-12
+ORD1107,Backpack,Accessories,5,1740.67,Bangalore,2026-06-22
+ORD1108,T-Shirt,Fashion,2,847.99,Delhi,2026-01-07
+ORD1109,Laptop,Electronics,2,60323.3,Kolkata,2026-01-19
+ORD1110,Mixer,Home Appliances,4,3770.3,Kolkata,2026-02-19
+ORD1111,Tablet,Electronics,4,27968.51,Bangalore,2026-02-07
+ORD1112,Backpack,Accessories,1,1941.36,Mumbai,2026-04-19
+ORD1113,Keyboard,Electronics,2,1591.23,Surat,2026-04-29
+ORD1114,Laptop,Electronics,5,52241.18,Mumbai,2026-04-27
+ORD1115,Headphones,Electronics,4,2273.73,Surat,2026-06-02
+ORD1116,Shoes,Fashion,4,2555.3,Surat,2026-04-20
+ORD1117,Air Fryer,Home Appliances,5,6429.69,Delhi,2026-05-02
+ORD1118,Mixer,Home Appliances,3,3676.24,Hyderabad,2026-05-14
+ORD1119,Mixer,Home Appliances,2,3342.22,Mumbai,2026-03-15
+ORD1120,Keyboard,Electronics,3,1450.75,Surat,2026-01-21
+ORD1121,Headphones,Electronics,2,2081.76,Delhi,2026-02-24
+ORD1122,Smartphone,Electronics,4,17667.36,Surat,2026-04-30
+ORD1123,Watch,Accessories,1,4705.89,Chennai,2026-04-10
+ORD1124,Jeans,Fashion,5,2177.34,Ahmedabad,2026-05-28
+ORD1125,Watch,Accessories,4,4504.99,Pune,2026-03-18
+ORD1126,Jeans,Fashion,4,2140.31,Chennai,2026-05-18
+ORD1127,Tablet,Electronics,5,29679.26,Bangalore,2026-05-05
+ORD1128,Keyboard,Electronics,3,1480.75,Ahmedabad,2026-04-10
+ORD1129,Shoes,Fashion,4,2611.05,Jaipur,2026-02-02
+ORD1130,Book,Books,5,407.43,Chennai,2026-06-01
+ORD1131,Book,Books,1,412.56,Chennai,2026-02-04
+ORD1132,Air Fryer,Home Appliances,4,6086.25,Hyderabad,2026-04-08
+ORD1133,Shoes,Fashion,2,2476.36,Pune,2026-04-08
+ORD1134,T-Shirt,Fashion,4,759.41,Mumbai,2026-05-01
+ORD1135,Laptop,Electronics,5,50072.94,Pune,2026-02-27
+ORD1136,Backpack,Accessories,1,1901.24,Ahmedabad,2026-01-08
+ORD1137,Keyboard,Electronics,2,1601.77,Kolkata,2026-02-09
+ORD1138,Keyboard,Electronics,2,1492.07,Mumbai,2026-05-25
+ORD1139,Keyboard,Electronics,4,1559.84,Pune,2026-02-12
+ORD1140,Book,Books,5,491.74,Mumbai,2026-02-11
+ORD1141,T-Shirt,Fashion,1,811.57,Hyderabad,2026-05-28
+ORD1142,Backpack,Accessories,4,1762.8,Bangalore,2026-01-20
+ORD1143,Book,Books,2,414.17,Hyderabad,2026-06-25
+ORD1144,Book,Books,1,476.66,Kolkata,2026-01-11
+ORD1145,Shoes,Fashion,5,2463.2,Pune,2026-01-18
+ORD1146,Coffee Maker,Home Appliances,3,3790.63,Chennai,2026-05-06
+ORD1147,Smartphone,Electronics,4,19658.84,Jaipur,2026-02-09
+ORD1148,Watch,Accessories,2,5232.75,Hyderabad,2026-06-07
+ORD1149,Jeans,Fashion,5,2108.8,Jaipur,2026-04-22
+ORD1150,Air Fryer,Home Appliances,5,6198.91,Bangalore,2026-01-23
+ORD1151,T-Shirt,Fashion,4,758.07,Jaipur,2026-05-26
+ORD1152,Book,Books,4,435.28,Jaipur,2026-03-25
+ORD1153,Headphones,Electronics,4,2073.33,Hyderabad,2026-03-29
+ORD1154,T-Shirt,Fashion,5,831.15,Hyderabad,2026-05-23
+ORD1155,Laptop,Electronics,5,59928.69,Mumbai,2026-03-03
+ORD1156,Tablet,Electronics,4,27936.04,Bangalore,2026-06-26
+ORD1157,Mixer,Home Appliances,4,3463.72,Ahmedabad,2026-01-24
+ORD1158,T-Shirt,Fashion,2,783.72,Bangalore,2026-03-20
+ORD1159,Backpack,Accessories,5,1752.85,Surat,2026-05-16
+ORD1160,Shoes,Fashion,4,2747.22,Surat,2026-03-26
+ORD1161,Shoes,Fashion,4,2384.5,Hyderabad,2026-03-01
+ORD1162,Smartphone,Electronics,2,17335.97,Surat,2026-06-26
+ORD1163,Headphones,Electronics,2,2075.21,Jaipur,2026-03-12
+ORD1164,Tablet,Electronics,5,30669.0,Surat,2026-06-02
+ORD1165,T-Shirt,Fashion,1,852.15,Hyderabad,2026-02-28
+ORD1166,Shoes,Fashion,2,2400.17,Surat,2026-02-02
+ORD1167,T-Shirt,Fashion,1,874.79,Surat,2026-03-16
+ORD1168,Tablet,Electronics,2,28772.07,Jaipur,2026-01-27
+ORD1169,Air Fryer,Home Appliances,1,6596.28,Jaipur,2026-05-03
+ORD1170,Mixer,Home Appliances,3,3279.05,Ahmedabad,2026-03-06
+ORD1171,Air Fryer,Home Appliances,4,5998.31,Mumbai,2026-04-13
+ORD1172,Mixer,Home Appliances,1,3553.91,Ahmedabad,2026-02-08
+ORD1173,Headphones,Electronics,5,2397.62,Mumbai,2026-03-05
+ORD1174,Smartphone,Electronics,5,18952.0,Kolkata,2026-06-02
+ORD1175,Jeans,Fashion,5,1889.33,Surat,2026-04-08
+ORD1176,Mixer,Home Appliances,4,3358.15,Kolkata,2026-04-20
+ORD1177,T-Shirt,Fashion,5,818.34,Kolkata,2026-01-26
+ORD1178,Jeans,Fashion,2,2049.18,Hyderabad,2026-06-19
+ORD1179,Smartphone,Electronics,2,17063.51,Surat,2026-01-20
+ORD1180,Headphones,Electronics,1,2159.75,Kolkata,2026-05-01
+ORD1181,T-Shirt,Fashion,1,756.09,Hyderabad,2026-06-29
+ORD1182,Air Fryer,Home Appliances,4,5942.53,Bangalore,2026-03-09
+ORD1183,Jeans,Fashion,5,2063.44,Bangalore,2026-04-19
+ORD1184,Smartphone,Electronics,5,17009.31,Delhi,2026-03-10
+ORD1185,Air Fryer,Home Appliances,2,5942.83,Delhi,2026-03-20
+ORD1186,Book,Books,5,487.91,Jaipur,2026-02-01
+ORD1187,Mixer,Home Appliances,3,3639.81,Hyderabad,2026-05-09
+ORD1188,Coffee Maker,Home Appliances,4,4147.72,Kolkata,2026-01-11
+ORD1189,Watch,Accessories,3,5102.69,Ahmedabad,2026-01-24
+ORD1190,Keyboard,Electronics,5,1526.14,Ahmedabad,2026-06-22
+ORD1191,Air Fryer,Home Appliances,3,6599.12,Delhi,2026-05-01
+ORD1192,Coffee Maker,Home Appliances,4,4549.5,Delhi,2026-05-30
+ORD1193,Watch,Accessories,4,5467.96,Jaipur,2026-03-31
+ORD1194,Watch,Accessories,3,4820.09,Mumbai,2026-02-11
+ORD1195,Shoes,Fashion,4,2595.8,Hyderabad,2026-06-19
+ORD1196,Watch,Accessories,5,4535.79,Mumbai,2026-03-22
+ORD1197,T-Shirt,Fashion,3,737.62,Chennai,2026-05-12
+ORD1198,Air Fryer,Home Appliances,1,6704.96,Surat,2026-04-29
+ORD1199,Watch,Accessories,1,4686.65,Pune,2026-06-09
+ORD1200,Jeans,Fashion,4,2049.14,Ahmedabad,2026-02-22
+ORD1201,T-Shirt,Fashion,5,740.04,Hyderabad,2026-04-23
+ORD1202,Tablet,Electronics,4,25879.99,Kolkata,2026-03-03
+ORD1203,Tablet,Electronics,2,26940.2,Ahmedabad,2026-05-22
+ORD1204,Watch,Accessories,1,4723.76,Mumbai,2026-04-29
+ORD1205,Smartphone,Electronics,2,17994.15,Hyderabad,2026-05-11
+ORD1206,Tablet,Electronics,3,27526.75,Jaipur,2026-05-01
+ORD1207,Keyboard,Electronics,4,1515.38,Chennai,2026-02-18
+ORD1208,Book,Books,5,472.17,Delhi,2026-01-18
+ORD1209,T-Shirt,Fashion,4,773.41,Surat,2026-03-10
+ORD1210,Air Fryer,Home Appliances,1,6217.69,Hyderabad,2026-05-31
+ORD1211,Book,Books,4,482.87,Jaipur,2026-05-18
+ORD1212,Mixer,Home Appliances,3,3382.71,Surat,2026-04-07
+ORD1213,Mixer,Home Appliances,3,3758.72,Bangalore,2026-05-27
+ORD1214,Watch,Accessories,2,5354.94,Chennai,2026-01-12
+ORD1215,Shoes,Fashion,4,2601.57,Chennai,2026-04-09
+ORD1216,Backpack,Accessories,2,1798.32,Ahmedabad,2026-02-02
+ORD1217,Coffee Maker,Home Appliances,5,4058.88,Mumbai,2026-04-23
+ORD1218,Smartphone,Electronics,5,19477.59,Ahmedabad,2026-02-06
+ORD1219,Watch,Accessories,2,4573.91,Hyderabad,2026-03-28
+ORD1220,Book,Books,4,463.49,Pune,2026-06-22
+ORD1221,Air Fryer,Home Appliances,5,6344.01,Pune,2026-06-10
+ORD1222,Tablet,Electronics,4,30085.34,Ahmedabad,2026-06-08
+ORD1223,Smartphone,Electronics,2,18472.18,Hyderabad,2026-02-28
+ORD1224,Tablet,Electronics,1,27630.24,Mumbai,2026-06-12
+ORD1225,Tablet,Electronics,1,27684.6,Hyderabad,2026-01-08
+ORD1226,Laptop,Electronics,3,58257.58,Hyderabad,2026-04-02
+ORD1227,Shoes,Fashion,4,2321.86,Surat,2026-04-16
+ORD1228,Book,Books,2,420.3,Mumbai,2026-06-06
+ORD1229,Air Fryer,Home Appliances,4,6655.62,Bangalore,2026-05-08
+ORD1230,Book,Books,2,425.9,Hyderabad,2026-04-28
+ORD1231,T-Shirt,Fashion,1,862.75,Jaipur,2026-03-15
+ORD1232,Backpack,Accessories,5,1676.87,Jaipur,2026-03-30
+ORD1233,Book,Books,3,462.5,Chennai,2026-06-26
+ORD1234,T-Shirt,Fashion,4,854.18,Bangalore,2026-04-09
+ORD1235,Air Fryer,Home Appliances,4,5988.65,Chennai,2026-05-27
+ORD1236,Shoes,Fashion,5,2396.98,Hyderabad,2026-01-06
+ORD1237,Air Fryer,Home Appliances,4,6206.82,Kolkata,2026-06-25
+ORD1238,Jeans,Fashion,1,2163.16,Jaipur,2026-03-15
+ORD1239,Jeans,Fashion,2,2041.8,Pune,2026-02-26
+ORD1240,Backpack,Accessories,2,1843.52,Delhi,2026-06-10
+ORD1241,Smartphone,Electronics,1,17312.16,Jaipur,2026-01-09
+ORD1242,Book,Books,3,470.91,Mumbai,2026-03-17
+ORD1243,Shoes,Fashion,4,2336.88,Delhi,2026-05-19
+ORD1244,Shoes,Fashion,5,2499.9,Hyderabad,2026-02-12
+ORD1245,T-Shirt,Fashion,4,873.69,Hyderabad,2026-03-28
+ORD1246,Jeans,Fashion,1,1986.34,Mumbai,2026-02-06
+ORD1247,Jeans,Fashion,2,2142.98,Chennai,2026-05-23
+ORD1248,Shoes,Fashion,1,2644.28,Ahmedabad,2026-03-09
+ORD1249,Coffee Maker,Home Appliances,1,4162.02,Hyderabad,2026-05-30
+ORD1250,Watch,Accessories,3,4607.42,Bangalore,2026-05-01
+ORD1251,Laptop,Electronics,5,59226.58,Surat,2026-03-25
+ORD1252,Book,Books,2,463.29,Jaipur,2026-06-29
+ORD1253,T-Shirt,Fashion,4,737.74,Ahmedabad,2026-01-10
+ORD1254,T-Shirt,Fashion,4,737.66,Bangalore,2026-05-18
+ORD1255,Headphones,Electronics,4,2179.6,Surat,2026-04-18
+ORD1256,Book,Books,2,484.69,Mumbai,2026-05-06
+ORD1257,Book,Books,4,489.51,Hyderabad,2026-01-09
+ORD1258,Tablet,Electronics,3,26416.71,Jaipur,2026-03-02
+ORD1259,Air Fryer,Home Appliances,3,5979.16,Pune,2026-05-20
+ORD1260,Backpack,Accessories,3,1641.8,Hyderabad,2026-02-18
+ORD1261,Smartphone,Electronics,4,16530.02,Bangalore,2026-06-14
+ORD1262,Backpack,Accessories,5,1969.59,Ahmedabad,2026-03-27
+ORD1263,Keyboard,Electronics,2,1586.09,Bangalore,2026-01-18
+ORD1264,Air Fryer,Home Appliances,5,6119.3,Bangalore,2026-03-01
+ORD1265,Shoes,Fashion,2,2643.26,Kolkata,2026-01-01
+ORD1266,T-Shirt,Fashion,2,876.91,Surat,2026-03-06
+ORD1267,Jeans,Fashion,2,1843.05,Ahmedabad,2026-02-03
+ORD1268,Laptop,Electronics,3,58189.83,Bangalore,2026-05-31
+ORD1269,Shoes,Fashion,1,2336.19,Ahmedabad,2026-02-02
+ORD1270,Tablet,Electronics,4,28146.08,Mumbai,2026-05-02
+ORD1271,Mixer,Home Appliances,3,3509.27,Mumbai,2026-04-26
+ORD1272,Coffee Maker,Home Appliances,2,4574.15,Ahmedabad,2026-06-18
+ORD1273,Coffee Maker,Home Appliances,3,4164.76,Ahmedabad,2026-01-16
+ORD1274,Mixer,Home Appliances,4,3448.39,Mumbai,2026-05-06
+ORD1275,Tablet,Electronics,4,25611.55,Mumbai,2026-03-24
+ORD1276,Book,Books,2,410.91,Hyderabad,2026-06-09
+ORD1277,Backpack,Accessories,5,1817.41,Pune,2026-04-08
+ORD1278,Book,Books,5,431.54,Surat,2026-06-04
+ORD1279,Watch,Accessories,1,5292.04,Mumbai,2026-06-17
+ORD1280,Backpack,Accessories,5,1879.5,Bangalore,2026-04-21
+ORD1281,Mixer,Home Appliances,2,3439.67,Jaipur,2026-04-13
+ORD1282,Watch,Accessories,1,4811.59,Pune,2026-06-20
+ORD1283,T-Shirt,Fashion,3,871.48,Jaipur,2026-01-18
+ORD1284,Smartphone,Electronics,1,16535.63,Mumbai,2026-04-06
+ORD1285,Jeans,Fashion,2,2021.54,Kolkata,2026-05-24
+ORD1286,Coffee Maker,Home Appliances,3,4342.81,Chennai,2026-04-01
+ORD1287,Air Fryer,Home Appliances,4,6978.52,Ahmedabad,2026-03-15
+ORD1288,Book,Books,3,436.65,Kolkata,2026-05-10
+ORD1289,Keyboard,Electronics,2,1547.02,Bangalore,2026-01-28
+ORD1290,Shoes,Fashion,5,2432.81,Hyderabad,2026-05-27
+ORD1291,Keyboard,Electronics,4,1603.55,Kolkata,2026-06-07
+ORD1292,Backpack,Accessories,5,1629.45,Hyderabad,2026-01-08
+ORD1293,Headphones,Electronics,3,2289.19,Hyderabad,2026-03-28
+ORD1294,Shoes,Fashion,1,2339.77,Delhi,2026-05-25
+ORD1295,Backpack,Accessories,4,1645.05,Ahmedabad,2026-01-24
+ORD1296,Tablet,Electronics,5,26404.74,Chennai,2026-04-27
+ORD1297,Shoes,Fashion,2,2434.05,Pune,2026-05-26
+ORD1298,Book,Books,1,484.5,Delhi,2026-02-10
+ORD1299,Jeans,Fashion,5,1819.0,Mumbai,2026-03-11
+ORD1300,Mixer,Home Appliances,4,3489.96,Jaipur,2026-04-17
+ORD1301,T-Shirt,Fashion,2,839.74,Mumbai,2026-03-30
+ORD1302,Watch,Accessories,1,4782.29,Kolkata,2026-05-05
+ORD1303,Coffee Maker,Home Appliances,3,3818.15,Chennai,2026-06-03
+ORD1304,Laptop,Electronics,1,51748.65,Bangalore,2026-02-05
+ORD1305,Jeans,Fashion,3,1914.82,Mumbai,2026-01-02
+ORD1306,Mixer,Home Appliances,4,3272.99,Chennai,2026-05-17
+ORD1307,Tablet,Electronics,2,28001.47,Pune,2026-01-19
+ORD1308,Watch,Accessories,1,4935.23,Jaipur,2026-01-20
+ORD1309,Air Fryer,Home Appliances,3,6598.49,Kolkata,2026-04-14
+ORD1310,Tablet,Electronics,4,26821.29,Chennai,2026-01-06
+ORD1311,Shoes,Fashion,2,2649.6,Kolkata,2026-04-28
+ORD1312,Air Fryer,Home Appliances,3,5964.57,Mumbai,2026-03-04
+ORD1313,Watch,Accessories,5,4899.47,Mumbai,2026-04-12
+ORD1314,Air Fryer,Home Appliances,3,6819.55,Bangalore,2026-03-27
+ORD1315,Jeans,Fashion,2,1829.64,Mumbai,2026-05-16
+ORD1316,Coffee Maker,Home Appliances,2,4540.98,Pune,2026-03-31
+ORD1317,Tablet,Electronics,2,26523.11,Delhi,2026-03-07
+ORD1318,Keyboard,Electronics,2,1530.72,Mumbai,2026-02-15
+ORD1319,Jeans,Fashion,4,1984.59,Kolkata,2026-05-29
+ORD1320,Mixer,Home Appliances,5,3600.09,Kolkata,2026-03-24
+ORD1321,Air Fryer,Home Appliances,3,6046.24,Mumbai,2026-05-01
+ORD1322,Mixer,Home Appliances,3,3707.43,Kolkata,2026-01-15
+ORD1323,Shoes,Fashion,5,2286.18,Jaipur,2026-04-26
+ORD1324,Laptop,Electronics,1,53556.11,Hyderabad,2026-01-20
+ORD1325,Backpack,Accessories,1,1841.4,Surat,2026-04-09
+ORD1326,Mixer,Home Appliances,5,3538.02,Ahmedabad,2026-04-26
+ORD1327,Jeans,Fashion,5,2059.7,Pune,2026-06-04
+ORD1328,Mixer,Home Appliances,5,3255.6,Ahmedabad,2026-04-26
+ORD1329,Smartphone,Electronics,3,19736.59,Mumbai,2026-05-10
+ORD1330,Backpack,Accessories,2,1634.09,Jaipur,2026-04-23
+ORD1331,Coffee Maker,Home Appliances,5,4292.24,Pune,2026-04-06
+ORD1332,T-Shirt,Fashion,4,784.42,Pune,2026-06-23
+ORD1333,Book,Books,1,476.03,Pune,2026-01-17
+ORD1334,Shoes,Fashion,1,2527.97,Chennai,2026-03-14
+ORD1335,T-Shirt,Fashion,5,858.65,Pune,2026-01-21
+ORD1336,Book,Books,2,487.51,Hyderabad,2026-06-17
+ORD1337,Tablet,Electronics,4,25922.13,Mumbai,2026-03-21
+ORD1338,Coffee Maker,Home Appliances,4,4320.53,Pune,2026-02-02
+ORD1339,Backpack,Accessories,5,1653.64,Chennai,2026-05-11
+ORD1340,Shoes,Fashion,1,2430.33,Delhi,2026-02-24
+ORD1341,Shoes,Fashion,4,2345.06,Delhi,2026-02-09
+ORD1342,Smartphone,Electronics,3,19239.94,Mumbai,2026-05-10
+ORD1343,Jeans,Fashion,5,2132.98,Surat,2026-01-10
+ORD1344,Backpack,Accessories,3,1935.5,Kolkata,2026-02-03
+ORD1345,Book,Books,4,418.88,Delhi,2026-06-27
+ORD1346,Jeans,Fashion,5,2122.56,Delhi,2026-04-23
+ORD1347,Laptop,Electronics,4,53507.29,Bangalore,2026-04-24
+ORD1348,Book,Books,3,472.72,Jaipur,2026-03-01
+ORD1349,Coffee Maker,Home Appliances,2,4039.95,Jaipur,2026-02-19
+ORD1350,Shoes,Fashion,5,2741.12,Jaipur,2026-03-14
+ORD1351,Jeans,Fashion,4,2000.16,Chennai,2026-02-11
+ORD1352,Air Fryer,Home Appliances,2,6891.64,Delhi,2026-03-06
+ORD1353,Laptop,Electronics,4,59115.29,Surat,2026-01-27
+ORD1354,Tablet,Electronics,5,29966.53,Hyderabad,2026-01-22
+ORD1355,Jeans,Fashion,2,1908.16,Surat,2026-02-07
+ORD1356,Air Fryer,Home Appliances,4,5969.23,Bangalore,2026-04-26
+ORD1357,Shoes,Fashion,1,2456.47,Chennai,2026-05-09
+ORD1358,Shoes,Fashion,2,2442.11,Mumbai,2026-04-06
+ORD1359,Keyboard,Electronics,1,1445.61,Mumbai,2026-06-16
+ORD1360,Shoes,Fashion,2,2317.87,Hyderabad,2026-05-01
+ORD1361,Tablet,Electronics,2,29449.51,Jaipur,2026-04-25
+ORD1362,Book,Books,1,486.53,Ahmedabad,2026-03-07
+ORD1363,Keyboard,Electronics,2,1514.64,Kolkata,2026-05-16
+ORD1364,Watch,Accessories,1,5275.12,Bangalore,2026-03-19
+ORD1365,Smartphone,Electronics,1,17058.38,Kolkata,2026-04-28
+ORD1366,Smartphone,Electronics,1,19212.08,Jaipur,2026-06-02
+ORD1367,Coffee Maker,Home Appliances,1,4310.84,Kolkata,2026-03-03
+ORD1368,Tablet,Electronics,2,26831.12,Ahmedabad,2026-06-07
+ORD1369,Shoes,Fashion,2,2534.32,Delhi,2026-06-20
+ORD1370,Backpack,Accessories,1,1808.45,Pune,2026-01-18
+ORD1371,Coffee Maker,Home Appliances,5,4206.16,Surat,2026-05-22
+ORD1372,Laptop,Electronics,4,59106.65,Ahmedabad,2026-06-12
+ORD1373,Watch,Accessories,3,4752.7,Ahmedabad,2026-04-02
+ORD1374,Jeans,Fashion,1,1936.95,Mumbai,2026-05-29
+ORD1375,Tablet,Electronics,3,25947.09,Pune,2026-05-20
+ORD1376,Shoes,Fashion,2,2664.13,Jaipur,2026-06-28
+ORD1377,Mixer,Home Appliances,2,3718.05,Mumbai,2026-04-28
+ORD1378,Laptop,Electronics,3,51717.5,Bangalore,2026-01-11
+ORD1379,Shoes,Fashion,3,2506.69,Surat,2026-05-02
+ORD1380,T-Shirt,Fashion,1,839.48,Bangalore,2026-03-15
+ORD1381,Shoes,Fashion,1,2681.83,Pune,2026-03-11
+ORD1382,Smartphone,Electronics,3,17773.02,Chennai,2026-04-23
+ORD1383,Watch,Accessories,3,5472.63,Jaipur,2026-06-27
+ORD1384,Mixer,Home Appliances,3,3797.02,Surat,2026-03-10
+ORD1385,Jeans,Fashion,1,2089.79,Mumbai,2026-04-21
+ORD1386,Book,Books,2,454.09,Pune,2026-01-27
+ORD1387,Smartphone,Electronics,3,18579.31,Hyderabad,2026-04-25
+ORD1388,Book,Books,4,420.0,Jaipur,2026-03-31
+ORD1389,Mixer,Home Appliances,1,3658.77,Pune,2026-06-07
+ORD1390,Watch,Accessories,3,5138.44,Ahmedabad,2026-01-20
+ORD1391,Backpack,Accessories,4,1750.79,Delhi,2026-01-08
+ORD1392,Headphones,Electronics,5,2278.36,Jaipur,2026-01-09
+ORD1393,Headphones,Electronics,1,2083.84,Pune,2026-04-03
+ORD1394,Watch,Accessories,5,4531.48,Delhi,2026-06-23
+ORD1395,Mixer,Home Appliances,3,3410.41,Mumbai,2026-05-27
+ORD1396,Headphones,Electronics,5,2141.46,Pune,2026-06-16
+ORD1397,T-Shirt,Fashion,2,872.59,Ahmedabad,2026-02-17
+ORD1398,Mixer,Home Appliances,5,3420.89,Surat,2026-01-31
+ORD1399,T-Shirt,Fashion,3,831.61,Bangalore,2026-06-06
+ORD1400,T-Shirt,Fashion,4,751.09,Delhi,2026-01-19
+ORD1401,Mixer,Home Appliances,2,3779.08,Jaipur,2026-01-23
+ORD1402,Jeans,Fashion,3,2066.1,Mumbai,2026-05-21
+ORD1403,Coffee Maker,Home Appliances,3,4528.72,Delhi,2026-06-29
+ORD1404,Backpack,Accessories,2,1905.73,Surat,2026-02-27
+ORD1405,Smartphone,Electronics,2,19051.44,Bangalore,2026-05-07
+ORD1406,Laptop,Electronics,3,55594.24,Pune,2026-04-30
+ORD1407,Jeans,Fashion,5,1850.98,Mumbai,2026-01-17
+ORD1408,T-Shirt,Fashion,4,878.84,Jaipur,2026-05-15
+ORD1409,Watch,Accessories,4,5322.27,Mumbai,2026-02-02
+ORD1410,Shoes,Fashion,1,2474.0,Surat,2026-03-30
+ORD1411,Headphones,Electronics,5,2261.51,Delhi,2026-02-03
+ORD1412,Watch,Accessories,5,5409.63,Ahmedabad,2026-02-01
+ORD1413,Coffee Maker,Home Appliances,2,4035.46,Delhi,2026-03-24
+ORD1414,Tablet,Electronics,2,27137.73,Surat,2026-03-14
+ORD1415,Air Fryer,Home Appliances,1,6175.79,Surat,2026-03-12
+ORD1416,Headphones,Electronics,3,2250.35,Mumbai,2026-05-09
+ORD1417,Backpack,Accessories,2,1833.05,Kolkata,2026-02-09
+ORD1418,Headphones,Electronics,5,2297.08,Kolkata,2026-03-28
+ORD1419,Air Fryer,Home Appliances,5,5903.55,Ahmedabad,2026-01-21
+ORD1420,Laptop,Electronics,5,52411.21,Bangalore,2026-05-27
+ORD1421,Watch,Accessories,5,5137.96,Jaipur,2026-06-10
+ORD1422,Coffee Maker,Home Appliances,3,4319.2,Hyderabad,2026-05-04
+ORD1423,Keyboard,Electronics,4,1439.23,Mumbai,2026-06-26
+ORD1424,Laptop,Electronics,2,54335.66,Jaipur,2026-04-29
+ORD1425,Keyboard,Electronics,3,1532.0,Pune,2026-03-23
+ORD1426,Tablet,Electronics,3,30662.1,Delhi,2026-04-05
+ORD1427,Coffee Maker,Home Appliances,5,3869.19,Bangalore,2026-04-30
+ORD1428,Smartphone,Electronics,3,17818.55,Delhi,2026-01-25
+ORD1429,Laptop,Electronics,3,59899.23,Kolkata,2026-04-18
+ORD1430,Keyboard,Electronics,2,1594.04,Kolkata,2026-03-22
+ORD1431,Keyboard,Electronics,2,1499.48,Surat,2026-04-30
+ORD1432,Mixer,Home Appliances,3,3498.16,Mumbai,2026-04-11
+ORD1433,Coffee Maker,Home Appliances,4,4592.02,Bangalore,2026-05-30
+ORD1434,Shoes,Fashion,1,2274.36,Jaipur,2026-06-02
+ORD1435,Air Fryer,Home Appliances,4,6221.47,Ahmedabad,2026-01-28
+ORD1436,Watch,Accessories,2,5381.38,Pune,2026-04-14
+ORD1437,Shoes,Fashion,1,2449.31,Kolkata,2026-05-24
+ORD1438,Keyboard,Electronics,3,1515.97,Mumbai,2026-04-09
+ORD1439,Coffee Maker,Home Appliances,4,4422.1,Hyderabad,2026-06-09
+ORD1440,Backpack,Accessories,5,1662.77,Mumbai,2026-04-11
+ORD1441,Shoes,Fashion,3,2527.9,Pune,2026-02-06
+ORD1442,Keyboard,Electronics,5,1502.74,Surat,2026-01-11
+ORD1443,Laptop,Electronics,1,51007.4,Pune,2026-05-02
+ORD1444,Coffee Maker,Home Appliances,4,3905.11,Surat,2026-02-05
+ORD1445,Shoes,Fashion,5,2408.3,Chennai,2026-06-07
+ORD1446,Tablet,Electronics,3,28524.86,Surat,2026-05-11
+ORD1447,Coffee Maker,Home Appliances,4,4375.34,Hyderabad,2026-05-02
+ORD1448,Air Fryer,Home Appliances,1,6328.87,Mumbai,2026-04-17
+ORD1449,Book,Books,3,476.71,Ahmedabad,2026-06-02
+ORD1450,Mixer,Home Appliances,3,3826.95,Kolkata,2026-05-28
+ORD1451,Keyboard,Electronics,1,1525.06,Delhi,2026-05-15
+ORD1452,Backpack,Accessories,5,1898.86,Chennai,2026-02-07
+ORD1453,Air Fryer,Home Appliances,2,5891.04,Mumbai,2026-02-18
+ORD1454,Laptop,Electronics,4,52950.62,Delhi,2026-04-16
+ORD1455,Tablet,Electronics,2,27498.11,Kolkata,2026-05-01
+ORD1456,Air Fryer,Home Appliances,1,6767.51,Surat,2026-02-23
+ORD1457,Coffee Maker,Home Appliances,3,4618.42,Jaipur,2026-05-15
+ORD1458,Watch,Accessories,3,5455.59,Jaipur,2026-05-17
+ORD1459,Shoes,Fashion,5,2426.17,Hyderabad,2026-06-06
+ORD1460,Mixer,Home Appliances,2,3820.14,Hyderabad,2026-05-23
+ORD1461,T-Shirt,Fashion,2,869.55,Hyderabad,2026-03-15
+ORD1462,Tablet,Electronics,2,29065.34,Jaipur,2026-03-23
+ORD1463,Mixer,Home Appliances,3,3542.34,Hyderabad,2026-03-15
+ORD1464,Smartphone,Electronics,5,18635.84,Chennai,2026-04-12
+ORD1465,Air Fryer,Home Appliances,3,7090.99,Delhi,2026-03-16
+ORD1466,Laptop,Electronics,3,60008.45,Mumbai,2026-03-30
+ORD1467,Mixer,Home Appliances,3,3673.14,Bangalore,2026-02-21
+ORD1468,Air Fryer,Home Appliances,5,6202.47,Surat,2026-06-28
+ORD1469,T-Shirt,Fashion,2,736.55,Kolkata,2026-03-03
+ORD1470,Keyboard,Electronics,1,1550.95,Surat,2026-02-27
+ORD1471,Backpack,Accessories,2,1638.9,Chennai,2026-03-26
+ORD1472,Tablet,Electronics,4,25763.05,Delhi,2026-01-02
+ORD1473,Coffee Maker,Home Appliances,2,4121.8,Jaipur,2026-05-03
+ORD1474,Backpack,Accessories,2,1892.13,Hyderabad,2026-03-24
+ORD1475,T-Shirt,Fashion,1,864.19,Mumbai,2026-06-16
+ORD1476,Book,Books,2,453.16,Ahmedabad,2026-02-14
+ORD1477,Watch,Accessories,2,5432.84,Ahmedabad,2026-04-12
+ORD1478,Jeans,Fashion,4,1873.59,Hyderabad,2026-01-10
+ORD1479,Laptop,Electronics,3,55747.58,Mumbai,2026-03-27
+ORD1480,T-Shirt,Fashion,4,877.16,Surat,2026-05-15
+ORD1481,Mixer,Home Appliances,2,3745.74,Jaipur,2026-03-11
+ORD1482,Keyboard,Electronics,1,1449.21,Jaipur,2026-06-15
+ORD1483,T-Shirt,Fashion,2,721.35,Pune,2026-03-17
+ORD1484,Book,Books,2,420.79,Chennai,2026-04-20
+ORD1485,Coffee Maker,Home Appliances,3,3852.86,Mumbai,2026-02-17
+ORD1486,Headphones,Electronics,4,2122.38,Bangalore,2026-01-02
+ORD1487,T-Shirt,Fashion,4,756.74,Hyderabad,2026-03-26
+ORD1488,T-Shirt,Fashion,5,834.62,Ahmedabad,2026-03-08
+ORD1489,Backpack,Accessories,3,1869.4,Ahmedabad,2026-06-20
+ORD1490,Smartphone,Electronics,4,17304.5,Chennai,2026-06-25
+ORD1491,Coffee Maker,Home Appliances,3,4359.84,Hyderabad,2026-04-05
+ORD1492,Book,Books,2,424.72,Delhi,2026-05-03
+ORD1493,Headphones,Electronics,4,2309.0,Kolkata,2026-04-06
+ORD1494,Watch,Accessories,5,5411.71,Surat,2026-06-20
+ORD1495,Air Fryer,Home Appliances,2,6840.42,Kolkata,2026-01-21
+ORD1496,Coffee Maker,Home Appliances,4,4223.67,Pune,2026-01-20
+ORD1497,Book,Books,1,410.56,Surat,2026-05-10
+ORD1498,Keyboard,Electronics,5,1511.0,Delhi,2026-03-25
+ORD1499,Air Fryer,Home Appliances,5,6424.39,Bangalore,2026-05-30
+ORD1500,Mixer,Home Appliances,1,3779.22,Jaipur,2026-01-15
+ORD1501,Mixer,Home Appliances,2,3509.27,Jaipur,2026-05-25
+ORD1502,Laptop,Electronics,5,54586.16,Hyderabad,2026-01-06
+ORD1503,Watch,Accessories,3,5315.39,Bangalore,2026-05-29
+ORD1504,Smartphone,Electronics,1,17725.31,Mumbai,2026-05-19
+ORD1505,Laptop,Electronics,1,60347.51,Jaipur,2026-01-09
+ORD1506,T-Shirt,Fashion,4,747.86,Delhi,2026-06-14
+ORD1507,Tablet,Electronics,4,27296.98,Chennai,2026-04-25
+ORD1508,Air Fryer,Home Appliances,4,6338.34,Surat,2026-02-04
+ORD1509,Backpack,Accessories,3,1662.71,Surat,2026-04-11
+ORD1510,Coffee Maker,Home Appliances,2,4391.4,Bangalore,2026-01-01
+ORD1511,Jeans,Fashion,1,2190.3,Jaipur,2026-06-22
+ORD1512,Tablet,Electronics,5,27575.12,Chennai,2026-02-28
+ORD1513,Keyboard,Electronics,4,1453.85,Hyderabad,2026-02-18
+ORD1514,Tablet,Electronics,1,25380.42,Chennai,2026-06-07
+ORD1515,Jeans,Fashion,1,1895.32,Mumbai,2026-01-26
+ORD1516,Book,Books,1,445.18,Ahmedabad,2026-03-04
+ORD1517,Tablet,Electronics,1,27452.69,Bangalore,2026-05-19
+ORD1518,Keyboard,Electronics,1,1392.04,Hyderabad,2026-03-01
+ORD1519,Air Fryer,Home Appliances,5,6264.57,Kolkata,2026-06-22
+ORD1520,Air Fryer,Home Appliances,3,6157.98,Delhi,2026-06-19
+ORD1521,Coffee Maker,Home Appliances,2,4127.39,Hyderabad,2026-01-16
+ORD1522,Coffee Maker,Home Appliances,5,4518.96,Delhi,2026-06-10
+ORD1523,Backpack,Accessories,4,1820.11,Ahmedabad,2026-03-30
+ORD1524,Backpack,Accessories,4,1902.89,Pune,2026-06-28
+ORD1525,Watch,Accessories,4,4648.29,Chennai,2026-02-17
+ORD1526,Jeans,Fashion,5,1988.41,Bangalore,2026-03-18
+ORD1527,Air Fryer,Home Appliances,2,6897.51,Ahmedabad,2026-05-24
+ORD1528,Watch,Accessories,4,5056.28,Delhi,2026-04-10
+ORD1529,Keyboard,Electronics,3,1411.0,Mumbai,2026-04-26
+ORD1530,Air Fryer,Home Appliances,3,5970.2,Bangalore,2026-01-14
+ORD1531,T-Shirt,Fashion,4,826.75,Kolkata,2026-01-11
+ORD1532,Air Fryer,Home Appliances,1,6094.61,Kolkata,2026-06-21
+ORD1533,Coffee Maker,Home Appliances,2,4182.69,Pune,2026-03-19
+ORD1534,Laptop,Electronics,2,59808.76,Mumbai,2026-05-03
+ORD1535,Keyboard,Electronics,5,1561.13,Chennai,2026-03-03
+ORD1536,Coffee Maker,Home Appliances,3,4431.43,Chennai,2026-04-30
+ORD1537,Coffee Maker,Home Appliances,3,4039.07,Pune,2026-05-12
+ORD1538,Mixer,Home Appliances,4,3219.03,Jaipur,2026-03-23
+ORD1539,Keyboard,Electronics,3,1443.88,Ahmedabad,2026-05-25
+ORD1540,Air Fryer,Home Appliances,2,6813.63,Ahmedabad,2026-03-08
+ORD1541,Coffee Maker,Home Appliances,5,4266.48,Chennai,2026-03-17
+ORD1542,Headphones,Electronics,2,2125.14,Chennai,2026-05-26
+ORD1543,Air Fryer,Home Appliances,2,6499.09,Pune,2026-03-07
+ORD1544,Jeans,Fashion,4,2185.51,Jaipur,2026-04-28
+ORD1545,Headphones,Electronics,3,2054.48,Surat,2026-05-06
+ORD1546,Headphones,Electronics,5,2415.74,Ahmedabad,2026-05-15
+ORD1547,Laptop,Electronics,1,59897.07,Ahmedabad,2026-01-02
+ORD1548,Watch,Accessories,2,5341.48,Bangalore,2026-01-18
+ORD1549,Tablet,Electronics,2,25251.19,Surat,2026-04-27
+ORD1550,Shoes,Fashion,1,2557.89,Kolkata,2026-05-04
+ORD1551,Backpack,Accessories,4,1625.66,Surat,2026-05-22
+ORD1552,Watch,Accessories,1,4515.82,Hyderabad,2026-05-18
+ORD1553,T-Shirt,Fashion,1,799.35,Chennai,2026-02-15
+ORD1554,Smartphone,Electronics,1,18087.79,Bangalore,2026-02-19
+ORD1555,Book,Books,5,427.72,Pune,2026-03-10
+ORD1556,Jeans,Fashion,4,1830.69,Chennai,2026-04-28
+ORD1557,Book,Books,2,494.12,Bangalore,2026-03-18
+ORD1558,Backpack,Accessories,1,1855.34,Ahmedabad,2026-01-24
+ORD1559,Watch,Accessories,4,4876.19,Jaipur,2026-01-15
+ORD1560,Backpack,Accessories,1,1873.02,Mumbai,2026-05-08
+ORD1561,Air Fryer,Home Appliances,4,6688.38,Pune,2026-05-25
+ORD1562,Air Fryer,Home Appliances,1,7013.23,Ahmedabad,2026-02-28
+ORD1563,Keyboard,Electronics,5,1492.65,Ahmedabad,2026-01-20
+ORD1564,Backpack,Accessories,3,1943.75,Kolkata,2026-06-18
+ORD1565,Laptop,Electronics,2,59716.43,Pune,2026-01-05
+ORD1566,Keyboard,Electronics,5,1393.26,Chennai,2026-01-20
+ORD1567,T-Shirt,Fashion,2,809.22,Kolkata,2026-04-10
+ORD1568,Backpack,Accessories,5,1739.42,Delhi,2026-06-26
+ORD1569,Tablet,Electronics,1,28004.44,Pune,2026-01-14
+ORD1570,Smartphone,Electronics,4,17035.72,Mumbai,2026-03-29
+ORD1571,Book,Books,5,490.94,Chennai,2026-03-25
+ORD1572,Laptop,Electronics,3,58119.03,Jaipur,2026-05-06
+ORD1573,Keyboard,Electronics,3,1515.91,Chennai,2026-04-21
+ORD1574,Headphones,Electronics,5,2270.7,Mumbai,2026-06-08
+ORD1575,T-Shirt,Fashion,2,833.05,Mumbai,2026-03-10
+ORD1576,Headphones,Electronics,4,2293.14,Delhi,2026-04-10
+ORD1577,Shoes,Fashion,3,2302.35,Ahmedabad,2026-03-20
+ORD1578,Mixer,Home Appliances,3,3682.94,Mumbai,2026-02-03
+ORD1579,Smartphone,Electronics,2,17751.53,Surat,2026-05-23
+ORD1580,Coffee Maker,Home Appliances,4,3866.77,Mumbai,2026-04-01
+ORD1581,Coffee Maker,Home Appliances,1,4281.42,Pune,2026-04-09
+ORD1582,Laptop,Electronics,3,54051.91,Mumbai,2026-05-24
+ORD1583,Keyboard,Electronics,5,1506.33,Chennai,2026-02-13
+ORD1584,Headphones,Electronics,3,2112.5,Jaipur,2026-02-07
+ORD1585,Smartphone,Electronics,2,17764.83,Chennai,2026-03-18
+ORD1586,Mixer,Home Appliances,1,3402.79,Bangalore,2026-06-10
+ORD1587,Mixer,Home Appliances,5,3581.67,Jaipur,2026-01-28
+ORD1588,Headphones,Electronics,3,1982.98,Chennai,2026-03-27
+ORD1589,Air Fryer,Home Appliances,5,6343.86,Pune,2026-04-23
+ORD1590,Shoes,Fashion,4,2656.67,Kolkata,2026-02-04
+ORD1591,T-Shirt,Fashion,3,815.49,Bangalore,2026-05-03
+ORD1592,Shoes,Fashion,2,2731.19,Pune,2026-03-16
+ORD1593,Tablet,Electronics,4,30619.47,Bangalore,2026-03-25
+ORD1594,Watch,Accessories,3,5315.43,Chennai,2026-04-04
+ORD1595,Smartphone,Electronics,5,16919.28,Surat,2026-02-16
+ORD1596,Backpack,Accessories,5,1629.69,Jaipur,2026-02-23
+ORD1597,Mixer,Home Appliances,3,3731.9,Mumbai,2026-04-15
+ORD1598,Backpack,Accessories,4,1670.1,Hyderabad,2026-03-03
+ORD1599,T-Shirt,Fashion,2,833.39,Chennai,2026-01-19
+ORD1600,Mixer,Home Appliances,5,3485.46,Chennai,2026-05-17
+ORD1601,Coffee Maker,Home Appliances,4,4236.66,Pune,2026-06-29
+ORD1602,Jeans,Fashion,5,2036.51,Mumbai,2026-01-28
+ORD1603,Jeans,Fashion,2,2062.01,Pune,2026-02-12
+ORD1604,Backpack,Accessories,5,1635.95,Chennai,2026-03-26
+ORD1605,Jeans,Fashion,4,1841.46,Mumbai,2026-03-08
+ORD1606,Keyboard,Electronics,5,1574.06,Surat,2026-05-29
+ORD1607,Tablet,Electronics,5,26437.78,Pune,2026-04-11
+ORD1608,Mixer,Home Appliances,5,3633.31,Delhi,2026-03-30
+ORD1609,Laptop,Electronics,4,50650.04,Chennai,2026-01-22
+ORD1610,Smartphone,Electronics,2,17453.98,Pune,2026-04-27
+ORD1611,Jeans,Fashion,2,2007.44,Pune,2026-05-02
+ORD1612,Smartphone,Electronics,4,18799.18,Jaipur,2026-03-23
+ORD1613,Smartphone,Electronics,3,16360.86,Mumbai,2026-01-06
+ORD1614,Air Fryer,Home Appliances,3,6692.36,Delhi,2026-03-04
+ORD1615,Coffee Maker,Home Appliances,2,4243.6,Pune,2026-05-24
+ORD1616,Watch,Accessories,4,4730.91,Chennai,2026-06-11
+ORD1617,Headphones,Electronics,2,2261.81,Chennai,2026-04-12
+ORD1618,Laptop,Electronics,5,59214.07,Jaipur,2026-06-01
+ORD1619,Watch,Accessories,4,4503.55,Bangalore,2026-02-22
+ORD1620,T-Shirt,Fashion,1,811.36,Surat,2026-02-17
+ORD1621,Shoes,Fashion,3,2347.6,Mumbai,2026-03-09
+ORD1622,Backpack,Accessories,4,1809.98,Pune,2026-06-02
+ORD1623,Watch,Accessories,5,4891.57,Mumbai,2026-03-31
+ORD1624,Shoes,Fashion,4,2557.66,Hyderabad,2026-06-07
+ORD1625,Book,Books,1,465.49,Pune,2026-01-31
+ORD1626,Keyboard,Electronics,3,1385.08,Pune,2026-06-27
+ORD1627,Headphones,Electronics,5,2150.92,Kolkata,2026-02-05
+ORD1628,Book,Books,4,443.07,Jaipur,2026-06-12
+ORD1629,Coffee Maker,Home Appliances,2,4246.13,Jaipur,2026-03-15
+ORD1630,Headphones,Electronics,2,2118.42,Jaipur,2026-06-08
+ORD1631,Laptop,Electronics,3,59970.26,Jaipur,2026-02-04
+ORD1632,Keyboard,Electronics,4,1639.15,Surat,2026-06-17
+ORD1633,Mixer,Home Appliances,4,3629.29,Chennai,2026-04-24
+ORD1634,Mixer,Home Appliances,2,3207.87,Ahmedabad,2026-02-26
+ORD1635,T-Shirt,Fashion,1,763.02,Surat,2026-03-15
+ORD1636,Headphones,Electronics,4,2228.89,Jaipur,2026-05-21
+ORD1637,Coffee Maker,Home Appliances,1,4261.08,Hyderabad,2026-05-20
+ORD1638,Air Fryer,Home Appliances,3,6554.66,Ahmedabad,2026-04-23
+ORD1639,Coffee Maker,Home Appliances,2,4611.41,Mumbai,2026-06-17
+ORD1640,Jeans,Fashion,2,1918.12,Ahmedabad,2026-04-26
+ORD1641,T-Shirt,Fashion,3,856.88,Mumbai,2026-04-23
+ORD1642,Air Fryer,Home Appliances,1,6858.32,Bangalore,2026-02-23
+ORD1643,Jeans,Fashion,5,2074.62,Kolkata,2026-06-11
+ORD1644,Watch,Accessories,2,5115.13,Bangalore,2026-02-22
+ORD1645,Jeans,Fashion,1,2027.02,Surat,2026-03-13
+ORD1646,Book,Books,5,420.15,Hyderabad,2026-03-16
+ORD1647,Book,Books,3,490.72,Surat,2026-06-23
+ORD1648,Air Fryer,Home Appliances,1,6026.27,Chennai,2026-01-16
+ORD1649,T-Shirt,Fashion,2,831.19,Delhi,2026-03-05
+ORD1650,Headphones,Electronics,3,2344.53,Chennai,2026-05-06
+ORD1651,Headphones,Electronics,5,2258.26,Chennai,2026-04-07
+ORD1652,Mixer,Home Appliances,1,3593.54,Mumbai,2026-04-14
+ORD1653,Coffee Maker,Home Appliances,3,4363.55,Pune,2026-04-27
+ORD1654,Mixer,Home Appliances,3,3557.37,Mumbai,2026-04-28
+ORD1655,Backpack,Accessories,3,1926.04,Surat,2026-04-12
+ORD1656,Keyboard,Electronics,4,1597.45,Jaipur,2026-03-10
+ORD1657,Shoes,Fashion,3,2417.91,Kolkata,2026-02-03
+ORD1658,Book,Books,4,475.95,Ahmedabad,2026-01-12
+ORD1659,Smartphone,Electronics,4,16258.61,Delhi,2026-04-23
+ORD1660,Mixer,Home Appliances,1,3844.29,Chennai,2026-02-21
+ORD1661,Tablet,Electronics,2,30140.03,Hyderabad,2026-02-10
+ORD1662,Air Fryer,Home Appliances,3,5971.34,Pune,2026-03-06
+ORD1663,Smartphone,Electronics,3,18592.23,Delhi,2026-01-14
+ORD1664,Watch,Accessories,3,5224.94,Bangalore,2026-04-20
+ORD1665,Backpack,Accessories,1,1873.33,Ahmedabad,2026-02-24
+ORD1666,Mixer,Home Appliances,1,3242.89,Bangalore,2026-05-13
+ORD1667,Backpack,Accessories,4,1623.34,Pune,2026-01-31
+ORD1668,Air Fryer,Home Appliances,4,6752.24,Jaipur,2026-01-19
+ORD1669,Keyboard,Electronics,4,1376.8,Mumbai,2026-01-27
+ORD1670,Shoes,Fashion,3,2689.42,Delhi,2026-04-08
+ORD1671,Jeans,Fashion,2,2055.6,Delhi,2026-01-18
+ORD1672,Coffee Maker,Home Appliances,5,3787.12,Delhi,2026-04-23
+ORD1673,Shoes,Fashion,2,2563.01,Delhi,2026-04-16
+ORD1674,Book,Books,4,482.4,Mumbai,2026-01-26
+ORD1675,Headphones,Electronics,1,2239.41,Chennai,2026-03-31
+ORD1676,Watch,Accessories,3,5290.02,Bangalore,2026-03-12
+ORD1677,Backpack,Accessories,1,1709.34,Kolkata,2026-06-03
+ORD1678,Tablet,Electronics,5,26795.56,Ahmedabad,2026-06-18
+ORD1679,T-Shirt,Fashion,2,801.84,Surat,2026-02-18
+ORD1680,Tablet,Electronics,4,26855.04,Ahmedabad,2026-03-03
+ORD1681,Mixer,Home Appliances,4,3228.92,Jaipur,2026-06-13
+ORD1682,Book,Books,1,452.55,Ahmedabad,2026-04-03
+ORD1683,Shoes,Fashion,2,2442.44,Kolkata,2026-04-18
+ORD1684,Shoes,Fashion,5,2590.43,Jaipur,2026-01-19
+ORD1685,Laptop,Electronics,5,50242.86,Hyderabad,2026-02-25
+ORD1686,Laptop,Electronics,1,59935.48,Chennai,2026-05-10
+ORD1687,T-Shirt,Fashion,5,841.68,Chennai,2026-06-29
+ORD1688,Watch,Accessories,1,5139.51,Surat,2026-06-07
+ORD1689,Headphones,Electronics,3,2016.78,Mumbai,2026-05-11
+ORD1690,Keyboard,Electronics,2,1510.92,Chennai,2026-05-31
+ORD1691,Backpack,Accessories,1,1731.66,Chennai,2026-03-03
+ORD1692,Laptop,Electronics,2,50448.34,Chennai,2026-01-30
+ORD1693,Mixer,Home Appliances,5,3576.18,Hyderabad,2026-06-20
+ORD1694,Tablet,Electronics,2,25868.88,Delhi,2026-06-29
+ORD1695,Laptop,Electronics,2,54960.54,Pune,2026-05-14
+ORD1696,Coffee Maker,Home Appliances,3,3920.25,Delhi,2026-03-10
+ORD1697,Tablet,Electronics,1,29520.01,Ahmedabad,2026-03-27
+ORD1698,Jeans,Fashion,4,1907.84,Mumbai,2026-03-09
+ORD1699,Tablet,Electronics,5,28714.18,Jaipur,2026-04-27
+ORD1700,Coffee Maker,Home Appliances,3,3826.57,Kolkata,2026-02-12
+ORD1701,Shoes,Fashion,2,2376.61,Mumbai,2026-05-27
+ORD1702,Backpack,Accessories,1,1702.23,Surat,2026-01-01
+ORD1703,Laptop,Electronics,1,52190.07,Jaipur,2026-04-04
+ORD1704,Watch,Accessories,2,4678.03,Ahmedabad,2026-05-22
+ORD1705,Jeans,Fashion,4,1888.86,Bangalore,2026-04-17
+ORD1706,Tablet,Electronics,3,26719.04,Mumbai,2026-05-27
+ORD1707,Shoes,Fashion,1,2500.02,Ahmedabad,2026-02-15
+ORD1708,Keyboard,Electronics,5,1644.42,Chennai,2026-01-18
+ORD1709,Mixer,Home Appliances,3,3691.47,Hyderabad,2026-03-25
+ORD1710,Smartphone,Electronics,5,17844.29,Pune,2026-02-21
+ORD1711,T-Shirt,Fashion,5,844.46,Kolkata,2026-03-04
+ORD1712,Mixer,Home Appliances,3,3564.18,Jaipur,2026-02-20
+ORD1713,Tablet,Electronics,5,29458.7,Bangalore,2026-02-08
+ORD1714,Laptop,Electronics,4,49763.01,Surat,2026-03-30
+ORD1715,Backpack,Accessories,1,1962.36,Ahmedabad,2026-06-18
+ORD1716,Watch,Accessories,3,4603.03,Surat,2026-03-02
+ORD1717,Watch,Accessories,4,5460.09,Delhi,2026-03-13
+ORD1718,Smartphone,Electronics,1,19516.59,Surat,2026-04-16
+ORD1719,Tablet,Electronics,3,27767.36,Mumbai,2026-05-29
+ORD1720,Smartphone,Electronics,5,16680.65,Chennai,2026-01-20
+ORD1721,Book,Books,5,410.61,Delhi,2026-03-02
+ORD1722,T-Shirt,Fashion,3,855.08,Chennai,2026-06-29
+ORD1723,Air Fryer,Home Appliances,3,6263.48,Hyderabad,2026-03-01
+ORD1724,Smartphone,Electronics,2,16690.0,Kolkata,2026-01-28
+ORD1725,Headphones,Electronics,1,2052.32,Jaipur,2026-03-22
+ORD1726,Watch,Accessories,1,5034.92,Bangalore,2026-04-26
+ORD1727,T-Shirt,Fashion,4,761.45,Mumbai,2026-01-24
+ORD1728,Headphones,Electronics,3,2343.61,Kolkata,2026-01-11
+ORD1729,Keyboard,Electronics,3,1394.5,Bangalore,2026-04-02
+ORD1730,Watch,Accessories,5,4548.04,Hyderabad,2026-03-08
+ORD1731,Air Fryer,Home Appliances,2,5890.41,Chennai,2026-04-26
+ORD1732,Coffee Maker,Home Appliances,5,3989.88,Jaipur,2026-01-27
+ORD1733,Jeans,Fashion,2,1847.66,Ahmedabad,2026-02-26
+ORD1734,Headphones,Electronics,2,2342.42,Pune,2026-06-25
+ORD1735,Backpack,Accessories,1,1829.64,Hyderabad,2026-01-20
+ORD1736,Laptop,Electronics,1,51675.25,Jaipur,2026-02-02
+ORD1737,Smartphone,Electronics,3,16641.1,Jaipur,2026-01-13
+ORD1738,Headphones,Electronics,5,2170.59,Chennai,2026-05-08
+ORD1739,Laptop,Electronics,4,57015.34,Delhi,2026-04-01
+ORD1740,Keyboard,Electronics,2,1432.49,Jaipur,2026-02-08
+ORD1741,Laptop,Electronics,5,56310.94,Bangalore,2026-06-15
+ORD1742,T-Shirt,Fashion,4,784.94,Surat,2026-05-03
+ORD1743,Laptop,Electronics,1,52577.54,Delhi,2026-04-18
+ORD1744,Keyboard,Electronics,5,1424.74,Surat,2026-01-05
+ORD1745,Watch,Accessories,3,4978.69,Jaipur,2026-03-30
+ORD1746,Book,Books,5,433.94,Hyderabad,2026-02-16
+ORD1747,Laptop,Electronics,3,56068.28,Ahmedabad,2026-03-13
+ORD1748,Laptop,Electronics,4,55323.76,Kolkata,2026-03-01
+ORD1749,Headphones,Electronics,1,2089.06,Bangalore,2026-03-10
+ORD1750,Coffee Maker,Home Appliances,1,4421.8,Bangalore,2026-05-28
+ORD1751,Air Fryer,Home Appliances,4,6311.25,Delhi,2026-02-15
+ORD1752,Keyboard,Electronics,5,1445.4,Pune,2026-06-01
+ORD1753,Laptop,Electronics,3,59923.15,Kolkata,2026-02-06
+ORD1754,Book,Books,2,480.3,Jaipur,2026-05-19
+ORD1755,T-Shirt,Fashion,2,797.47,Mumbai,2026-01-15
+ORD1756,Keyboard,Electronics,5,1415.64,Surat,2026-05-03
+ORD1757,Laptop,Electronics,3,59596.86,Bangalore,2026-02-03
+ORD1758,Shoes,Fashion,2,2708.31,Pune,2026-01-16
+ORD1759,Laptop,Electronics,2,55952.7,Delhi,2026-01-29
+ORD1760,Air Fryer,Home Appliances,5,6968.87,Mumbai,2026-04-06
+ORD1761,Tablet,Electronics,4,28481.69,Pune,2026-03-19
+ORD1762,Shoes,Fashion,2,2736.84,Chennai,2026-06-13
+ORD1763,Mixer,Home Appliances,3,3271.94,Surat,2026-06-27
+ORD1764,Book,Books,3,425.09,Kolkata,2026-02-14
+ORD1765,Watch,Accessories,3,5232.95,Hyderabad,2026-02-02
+ORD1766,Headphones,Electronics,1,2397.47,Kolkata,2026-04-11
+ORD1767,Air Fryer,Home Appliances,5,5892.1,Kolkata,2026-03-23
+ORD1768,Jeans,Fashion,5,1887.41,Kolkata,2026-01-27
+ORD1769,Mixer,Home Appliances,2,3381.82,Mumbai,2026-03-02
+ORD1770,Shoes,Fashion,3,2333.01,Mumbai,2026-06-21
+ORD1771,Backpack,Accessories,3,1780.79,Hyderabad,2026-02-23
+ORD1772,Keyboard,Electronics,1,1455.14,Mumbai,2026-01-01
+ORD1773,Laptop,Electronics,4,54320.42,Chennai,2026-02-12
+ORD1774,Watch,Accessories,4,5380.69,Pune,2026-05-20
+ORD1775,Watch,Accessories,1,5327.74,Kolkata,2026-06-16
+ORD1776,Jeans,Fashion,2,1864.13,Mumbai,2026-01-09
+ORD1777,T-Shirt,Fashion,1,770.03,Mumbai,2026-01-19
+ORD1778,Shoes,Fashion,2,2692.89,Delhi,2026-01-20
+ORD1779,Coffee Maker,Home Appliances,1,4063.88,Kolkata,2026-05-04
+ORD1780,Tablet,Electronics,1,27615.41,Delhi,2026-06-05
+ORD1781,Watch,Accessories,2,4552.65,Pune,2026-02-22
+ORD1782,Keyboard,Electronics,4,1559.16,Surat,2026-03-09
+ORD1783,Backpack,Accessories,3,1727.06,Mumbai,2026-01-13
+ORD1784,Watch,Accessories,5,5048.65,Jaipur,2026-02-09
+ORD1785,Laptop,Electronics,3,49541.97,Mumbai,2026-03-17
+ORD1786,Air Fryer,Home Appliances,5,6474.43,Mumbai,2026-01-07
+ORD1787,Keyboard,Electronics,2,1541.46,Mumbai,2026-05-02
+ORD1788,Air Fryer,Home Appliances,1,6250.86,Chennai,2026-05-01
+ORD1789,Mixer,Home Appliances,3,3213.8,Surat,2026-04-10
+ORD1790,Headphones,Electronics,3,2369.62,Pune,2026-02-17
+ORD1791,Mixer,Home Appliances,1,3334.31,Jaipur,2026-03-09
+ORD1792,Keyboard,Electronics,3,1519.27,Delhi,2026-06-28
+ORD1793,Backpack,Accessories,1,1650.85,Pune,2026-05-19
+ORD1794,Watch,Accessories,5,4726.57,Ahmedabad,2026-04-10
+ORD1795,Air Fryer,Home Appliances,5,6394.22,Surat,2026-06-25
+ORD1796,Air Fryer,Home Appliances,4,6594.53,Bangalore,2026-05-02
+ORD1797,T-Shirt,Fashion,1,782.19,Ahmedabad,2026-05-09
+ORD1798,Book,Books,5,477.04,Kolkata,2026-02-07
+ORD1799,Smartphone,Electronics,4,16822.36,Delhi,2026-02-24
+ORD1800,Jeans,Fashion,2,1849.55,Chennai,2026-01-21
+ORD1801,Backpack,Accessories,4,1692.69,Delhi,2026-06-02
+ORD1802,T-Shirt,Fashion,3,864.65,Mumbai,2026-01-23
+ORD1803,Watch,Accessories,5,4896.38,Pune,2026-03-12
+ORD1804,Coffee Maker,Home Appliances,4,4550.42,Ahmedabad,2026-06-29
+ORD1805,Book,Books,5,452.03,Chennai,2026-01-29
+ORD1806,Watch,Accessories,2,4647.27,Kolkata,2026-05-30
+ORD1807,Jeans,Fashion,1,2168.89,Kolkata,2026-01-26
+ORD1808,Jeans,Fashion,3,2145.92,Pune,2026-04-16
+ORD1809,T-Shirt,Fashion,4,823.74,Kolkata,2026-06-05
+ORD1810,Mixer,Home Appliances,1,3270.54,Chennai,2026-02-06
+ORD1811,Book,Books,5,466.27,Chennai,2026-01-10
+ORD1812,Watch,Accessories,3,5189.48,Ahmedabad,2026-05-02
+ORD1813,T-Shirt,Fashion,3,722.33,Hyderabad,2026-03-21
+ORD1814,T-Shirt,Fashion,4,856.25,Mumbai,2026-02-28
+ORD1815,Headphones,Electronics,3,2408.66,Jaipur,2026-03-24
+ORD1816,T-Shirt,Fashion,4,815.78,Mumbai,2026-02-18
+ORD1817,Mixer,Home Appliances,2,3789.4,Chennai,2026-05-05
+ORD1818,Jeans,Fashion,5,2145.8,Ahmedabad,2026-05-12
+ORD1819,Jeans,Fashion,2,1825.33,Surat,2026-04-14
+ORD1820,Headphones,Electronics,5,2366.91,Ahmedabad,2026-02-14
+ORD1821,Keyboard,Electronics,2,1601.09,Bangalore,2026-01-09
+ORD1822,Mixer,Home Appliances,1,3792.62,Bangalore,2026-03-12
+ORD1823,Shoes,Fashion,4,2501.56,Mumbai,2026-06-24
+ORD1824,Laptop,Electronics,2,53597.13,Kolkata,2026-04-25
+ORD1825,Headphones,Electronics,4,2238.23,Pune,2026-03-30
+ORD1826,Headphones,Electronics,3,2309.54,Mumbai,2026-03-14
+ORD1827,Laptop,Electronics,4,50046.16,Kolkata,2026-02-24
+ORD1828,Air Fryer,Home Appliances,2,6691.59,Bangalore,2026-03-10
+ORD1829,Backpack,Accessories,4,1804.78,Ahmedabad,2026-05-02
+ORD1830,Headphones,Electronics,2,2244.5,Ahmedabad,2026-02-27
+ORD1831,T-Shirt,Fashion,5,847.75,Hyderabad,2026-06-14
+ORD1832,T-Shirt,Fashion,4,862.2,Pune,2026-04-28
+ORD1833,T-Shirt,Fashion,2,793.68,Surat,2026-06-09
+ORD1834,Watch,Accessories,5,4601.39,Surat,2026-06-19
+ORD1835,Air Fryer,Home Appliances,3,6579.89,Kolkata,2026-06-05
+ORD1836,T-Shirt,Fashion,3,828.47,Jaipur,2026-01-17
+ORD1837,Shoes,Fashion,3,2569.27,Hyderabad,2026-03-08
+ORD1838,Backpack,Accessories,3,1687.81,Surat,2026-03-03
+ORD1839,Laptop,Electronics,5,53945.08,Pune,2026-06-24
+ORD1840,Headphones,Electronics,1,2268.38,Hyderabad,2026-03-08
+ORD1841,Watch,Accessories,4,4887.3,Ahmedabad,2026-05-30
+ORD1842,Tablet,Electronics,5,29769.68,Pune,2026-02-26
+ORD1843,Backpack,Accessories,5,1849.79,Jaipur,2026-06-21
+ORD1844,Shoes,Fashion,5,2399.14,Delhi,2026-06-18
+ORD1845,Coffee Maker,Home Appliances,2,4026.78,Jaipur,2026-02-02
+ORD1846,Tablet,Electronics,3,29261.05,Surat,2026-02-16
+ORD1847,Backpack,Accessories,3,1855.6,Bangalore,2026-04-01
+ORD1848,Keyboard,Electronics,3,1476.14,Pune,2026-04-06
+ORD1849,T-Shirt,Fashion,5,766.09,Mumbai,2026-05-01
+ORD1850,Laptop,Electronics,5,55883.44,Kolkata,2026-01-19
+ORD1851,Mixer,Home Appliances,2,3500.33,Chennai,2026-05-16
+ORD1852,T-Shirt,Fashion,4,727.74,Delhi,2026-02-05
+ORD1853,Keyboard,Electronics,3,1472.76,Kolkata,2026-04-28
+ORD1854,Headphones,Electronics,3,2359.45,Delhi,2026-01-21
+ORD1855,Mixer,Home Appliances,3,3591.72,Delhi,2026-03-22
+ORD1856,Backpack,Accessories,1,1621.7,Hyderabad,2026-02-23
+ORD1857,Jeans,Fashion,2,2029.5,Delhi,2026-05-06
+ORD1858,Jeans,Fashion,1,1850.84,Chennai,2026-06-12
+ORD1859,Watch,Accessories,4,4928.04,Jaipur,2026-04-09
+ORD1860,Laptop,Electronics,1,55371.61,Pune,2026-01-04
+ORD1861,Shoes,Fashion,5,2344.35,Ahmedabad,2026-06-10
+ORD1862,Tablet,Electronics,2,26467.09,Pune,2026-03-21
+ORD1863,Headphones,Electronics,1,2148.76,Kolkata,2026-03-20
+ORD1864,Headphones,Electronics,1,2342.49,Hyderabad,2026-03-16
+ORD1865,Mixer,Home Appliances,5,3567.46,Pune,2026-04-22
+ORD1866,Backpack,Accessories,2,1743.38,Jaipur,2026-04-02
+ORD1867,Jeans,Fashion,2,1865.02,Chennai,2026-01-05
+ORD1868,Keyboard,Electronics,2,1568.15,Delhi,2026-02-24
+ORD1869,Tablet,Electronics,1,28502.28,Delhi,2026-02-01
+ORD1870,Shoes,Fashion,1,2436.62,Hyderabad,2026-05-17
+ORD1871,Book,Books,1,458.45,Ahmedabad,2026-06-19
+ORD1872,Smartphone,Electronics,1,16373.65,Mumbai,2026-04-17
+ORD1873,Mixer,Home Appliances,4,3236.52,Hyderabad,2026-05-02
+ORD1874,Tablet,Electronics,2,26350.77,Ahmedabad,2026-03-19
+ORD1875,Watch,Accessories,1,5161.45,Hyderabad,2026-06-09
+ORD1876,Book,Books,2,442.69,Mumbai,2026-05-11
+ORD1877,Tablet,Electronics,5,25859.31,Mumbai,2026-01-28
+ORD1878,Mixer,Home Appliances,2,3576.3,Hyderabad,2026-05-14
+ORD1879,Keyboard,Electronics,3,1561.03,Hyderabad,2026-02-11
+ORD1880,Laptop,Electronics,5,54959.9,Bangalore,2026-06-26
+ORD1881,Mixer,Home Appliances,3,3314.15,Ahmedabad,2026-06-21
+ORD1882,Smartphone,Electronics,1,19206.84,Jaipur,2026-02-08
+ORD1883,Smartphone,Electronics,5,16470.17,Mumbai,2026-03-07
+ORD1884,Backpack,Accessories,2,1784.43,Hyderabad,2026-03-09
+ORD1885,Mixer,Home Appliances,1,3219.87,Delhi,2026-01-11
+ORD1886,Air Fryer,Home Appliances,3,6318.28,Pune,2026-04-20
+ORD1887,Tablet,Electronics,1,25731.99,Ahmedabad,2026-01-03
+ORD1888,Air Fryer,Home Appliances,2,6712.36,Delhi,2026-03-26
+ORD1889,Shoes,Fashion,4,2726.45,Hyderabad,2026-01-24
+ORD1890,Shoes,Fashion,3,2340.5,Chennai,2026-04-13
+ORD1891,Mixer,Home Appliances,3,3735.0,Jaipur,2026-04-18
+ORD1892,Backpack,Accessories,2,1660.7,Ahmedabad,2026-02-10
+ORD1893,Smartphone,Electronics,4,19480.42,Jaipur,2026-05-26
+ORD1894,Backpack,Accessories,4,1685.25,Chennai,2026-04-02
+ORD1895,Book,Books,1,482.63,Delhi,2026-05-04
+ORD1896,Mixer,Home Appliances,1,3771.32,Jaipur,2026-01-12
+ORD1897,Smartphone,Electronics,3,18557.9,Ahmedabad,2026-06-23
+ORD1898,Coffee Maker,Home Appliances,5,4387.97,Bangalore,2026-06-21
+ORD1899,Air Fryer,Home Appliances,3,6524.83,Kolkata,2026-01-25
+ORD1900,Watch,Accessories,2,4980.93,Chennai,2026-02-08
+ORD1901,Air Fryer,Home Appliances,5,7009.68,Kolkata,2026-01-14
+ORD1902,Laptop,Electronics,2,55061.24,Jaipur,2026-05-07
+ORD1903,Air Fryer,Home Appliances,2,5947.32,Jaipur,2026-03-24
+ORD1904,Keyboard,Electronics,3,1641.04,Ahmedabad,2026-05-10
+ORD1905,Keyboard,Electronics,5,1543.0,Chennai,2026-03-02
+ORD1906,Smartphone,Electronics,4,17799.08,Kolkata,2026-04-25
+ORD1907,Smartphone,Electronics,4,17809.45,Mumbai,2026-05-08
+ORD1908,Tablet,Electronics,1,25774.8,Chennai,2026-01-10
+ORD1909,Coffee Maker,Home Appliances,5,3780.14,Mumbai,2026-06-04
+ORD1910,Book,Books,3,485.11,Surat,2026-02-22
+ORD1911,Backpack,Accessories,4,1962.13,Pune,2026-01-14
+ORD1912,Air Fryer,Home Appliances,2,6947.61,Pune,2026-05-24
+ORD1913,Jeans,Fashion,5,2038.96,Pune,2026-04-26
+ORD1914,Smartphone,Electronics,1,18933.55,Bangalore,2026-01-01
+ORD1915,Shoes,Fashion,3,2663.88,Hyderabad,2026-05-21
+ORD1916,Coffee Maker,Home Appliances,3,4369.76,Ahmedabad,2026-02-12
+ORD1917,Mixer,Home Appliances,2,3725.29,Chennai,2026-01-28
+ORD1918,T-Shirt,Fashion,5,750.41,Mumbai,2026-04-11
+ORD1919,Keyboard,Electronics,4,1597.37,Bangalore,2026-03-28
+ORD1920,Smartphone,Electronics,4,16367.4,Kolkata,2026-02-01
+ORD1921,Jeans,Fashion,4,1981.96,Kolkata,2026-05-10
+ORD1922,Headphones,Electronics,4,1981.91,Ahmedabad,2026-05-22
+ORD1923,Watch,Accessories,5,4981.94,Surat,2026-02-15
+ORD1924,Tablet,Electronics,5,26172.44,Delhi,2026-01-27
+ORD1925,Watch,Accessories,5,5105.14,Pune,2026-05-10
+ORD1926,Watch,Accessories,4,5478.4,Bangalore,2026-03-12
+ORD1927,Watch,Accessories,3,5469.4,Jaipur,2026-02-04
+ORD1928,Headphones,Electronics,4,2245.11,Surat,2026-03-18
+ORD1929,Air Fryer,Home Appliances,5,6968.92,Surat,2026-06-11
+ORD1930,Keyboard,Electronics,2,1412.91,Hyderabad,2026-06-25
+ORD1931,Shoes,Fashion,2,2739.57,Delhi,2026-05-09
+ORD1932,Coffee Maker,Home Appliances,3,4376.7,Pune,2026-05-24
+ORD1933,Mixer,Home Appliances,5,3549.45,Chennai,2026-06-22
+ORD1934,Tablet,Electronics,5,26801.2,Chennai,2026-01-04
+ORD1935,Coffee Maker,Home Appliances,1,3801.23,Delhi,2026-01-14
+ORD1936,Backpack,Accessories,1,1691.96,Delhi,2026-03-15
+ORD1937,Backpack,Accessories,3,1672.71,Ahmedabad,2026-06-26
+ORD1938,Jeans,Fashion,3,1880.66,Surat,2026-01-09
+ORD1939,Shoes,Fashion,4,2300.32,Surat,2026-02-27
+ORD1940,Tablet,Electronics,5,27377.77,Surat,2026-06-28
+ORD1941,T-Shirt,Fashion,1,867.15,Chennai,2026-04-17
+ORD1942,Jeans,Fashion,3,2185.24,Ahmedabad,2026-01-04
+ORD1943,Tablet,Electronics,3,26337.29,Jaipur,2026-02-27
+ORD1944,Backpack,Accessories,3,1891.84,Surat,2026-06-04
+ORD1945,Keyboard,Electronics,2,1438.25,Delhi,2026-06-24
+ORD1946,Smartphone,Electronics,2,19664.91,Surat,2026-01-31
+ORD1947,Watch,Accessories,1,4927.52,Surat,2026-03-09
+ORD1948,Headphones,Electronics,2,2236.95,Hyderabad,2026-01-02
+ORD1949,Shoes,Fashion,4,2603.8,Delhi,2026-01-11
+ORD1950,Headphones,Electronics,3,2242.63,Kolkata,2026-06-19
+ORD1951,T-Shirt,Fashion,4,845.33,Surat,2026-04-02
+ORD1952,Smartphone,Electronics,3,18091.42,Delhi,2026-05-14
+ORD1953,Smartphone,Electronics,5,16773.73,Surat,2026-05-18
+ORD1954,Watch,Accessories,1,4848.43,Bangalore,2026-06-19
+ORD1955,Shoes,Fashion,3,2429.43,Bangalore,2026-06-08
+ORD1956,Coffee Maker,Home Appliances,4,4617.17,Ahmedabad,2026-01-30
+ORD1957,Backpack,Accessories,3,1780.44,Kolkata,2026-06-09
+ORD1958,Keyboard,Electronics,1,1554.77,Pune,2026-04-08
+ORD1959,Jeans,Fashion,1,1953.37,Surat,2026-03-14
+ORD1960,Laptop,Electronics,5,58543.2,Pune,2026-05-12
+ORD1961,Jeans,Fashion,5,1977.23,Ahmedabad,2026-03-17
+ORD1962,Backpack,Accessories,2,1735.31,Mumbai,2026-01-25
+ORD1963,Headphones,Electronics,5,2214.61,Mumbai,2026-02-23
+ORD1964,Backpack,Accessories,2,1931.38,Chennai,2026-01-27
+ORD1965,Keyboard,Electronics,5,1598.62,Chennai,2026-06-15
+ORD1966,Air Fryer,Home Appliances,1,6820.96,Delhi,2026-01-07
+ORD1967,Mixer,Home Appliances,3,3176.52,Mumbai,2026-01-14
+ORD1968,Headphones,Electronics,3,2225.56,Kolkata,2026-02-28
+ORD1969,T-Shirt,Fashion,4,781.11,Chennai,2026-04-21
+ORD1970,Shoes,Fashion,1,2443.77,Mumbai,2026-05-17
+ORD1971,Laptop,Electronics,5,50195.61,Kolkata,2026-01-12
+ORD1972,Tablet,Electronics,1,27203.12,Surat,2026-01-28
+ORD1973,T-Shirt,Fashion,3,816.03,Hyderabad,2026-04-23
+ORD1974,Watch,Accessories,4,5321.06,Ahmedabad,2026-05-02
+ORD1975,Headphones,Electronics,5,2076.74,Chennai,2026-05-20
+ORD1976,T-Shirt,Fashion,2,766.73,Pune,2026-01-03
+ORD1977,Coffee Maker,Home Appliances,5,3898.75,Ahmedabad,2026-01-02
+ORD1978,Book,Books,5,440.47,Surat,2026-01-22
+ORD1979,T-Shirt,Fashion,2,838.68,Pune,2026-02-24
+ORD1980,Watch,Accessories,5,4641.53,Delhi,2026-02-26
+ORD1981,Book,Books,3,422.49,Delhi,2026-06-21
+ORD1982,Jeans,Fashion,5,2139.83,Surat,2026-04-29
+ORD1983,Backpack,Accessories,5,1646.33,Mumbai,2026-03-06
+ORD1984,Smartphone,Electronics,2,18812.12,Jaipur,2026-03-26
+ORD1985,Shoes,Fashion,2,2584.61,Bangalore,2026-01-26
+ORD1986,T-Shirt,Fashion,5,730.26,Bangalore,2026-03-23
+ORD1987,Mixer,Home Appliances,4,3379.84,Hyderabad,2026-06-27
+ORD1988,Book,Books,2,455.9,Pune,2026-03-22
+ORD1989,Watch,Accessories,2,4503.93,Bangalore,2026-02-26
+ORD1990,Tablet,Electronics,4,26749.41,Pune,2026-02-04
+ORD1991,Backpack,Accessories,3,1936.04,Jaipur,2026-04-25
+ORD1992,Shoes,Fashion,3,2492.49,Mumbai,2026-02-14
+ORD1993,Backpack,Accessories,5,1649.51,Hyderabad,2026-02-05
+ORD1994,Coffee Maker,Home Appliances,2,4001.12,Mumbai,2026-01-20
+ORD1995,Laptop,Electronics,5,56447.89,Kolkata,2026-05-29
+ORD1996,Watch,Accessories,5,4711.82,Ahmedabad,2026-05-22
+ORD1997,T-Shirt,Fashion,5,861.96,Surat,2026-05-01
+ORD1998,Backpack,Accessories,2,1751.69,Bangalore,2026-05-31
+ORD1999,Tablet,Electronics,3,25949.74,Surat,2026-05-11
+ORD2000,Smartphone,Electronics,4,17509.92,Ahmedabad,2026-06-19
