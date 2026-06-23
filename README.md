@@ -4,7 +4,7 @@
 
 This project takes a raw e-commerce sales dataset and transforms it into an analysis-ready star schema data warehouse using SQL. The work covers the full pipeline a BI team would expect before data reaches a dashboard: data quality auditing, staging, dimensional modeling, and fact table construction — laying the foundation for downstream reporting in Power BI or Tableau.
 
-**Tools used:** MySQL/SQL, dimensional modeling (star schema design)
+**Tools used:** MySQL, dimensional modeling (star schema design)
 
 ---
 
@@ -170,6 +170,122 @@ JOIN dim_category cat ON s.Category = cat.Category;
 
 ---
 
+## Step 5: Business Insights Querying
+
+With the star schema in place, I queried `fact_orders` against each dimension to answer core business questions a stakeholder would actually ask. This is the payoff of the modeling work — joins across the schema are now simple and fast.
+
+### Revenue by City
+
+```sql
+-- REVENUE BY CITY
+SELECT
+    ci.City,
+    SUM(f.Total_sales) AS Revenue
+FROM fact_orders f
+JOIN dim_city ci
+    ON f.City_ID = ci.City_ID
+GROUP BY ci.City
+ORDER BY Revenue DESC;
+```
+
+| City | Revenue |
+|---|---|
+| Mumbai | 3,197,293.30 |
+| Jaipur | 3,138,418.77 |
+| Pune | 2,958,953.75 |
+| Kolkata | 2,946,512.18 |
+| Bangalore | 2,761,749.03 |
+| Delhi | 2,576,365.21 |
+| Surat | 2,553,883.97 |
+| Chennai | 2,282,006.22 |
+| Ahmedabad | 2,099,774.90 |
+| Hyderabad | 1,901,620.17 |
+
+**Insight:** Mumbai and Jaipur lead in revenue, but the spread across the top 7 cities is fairly tight (within ~20% of each other) — suggesting a broadly distributed customer base rather than dependence on one city.
+
+### Best Selling Categories
+
+```sql
+-- BEST SELLING CATEGORIES
+SELECT
+    c.Category,
+    SUM(f.Total_sales) AS Revenue
+FROM fact_orders f
+JOIN dim_category c
+    ON f.Category_ID = c.Category_ID
+GROUP BY c.Category
+ORDER BY Revenue DESC;
+```
+
+| Category | Revenue |
+|---|---|
+| Electronics | 20,632,874.98 |
+| Home Appliances | 2,981,601.33 |
+| Accessories | 1,592,701.82 |
+| Fashion | 1,124,380.54 |
+| Books | 85,018.83 |
+
+**Insight:** Electronics dominates the revenue mix, generating roughly 78% of total revenue — far outpacing every other category combined. This is the kind of concentration risk a business should be aware of: growth (or disruption) in Electronics drives the whole top line.
+
+### Top 5 Selling Products
+
+```sql
+-- TOP 5 SELLING PRODUCTS
+SELECT
+    p.Product,
+    SUM(f.Total_sales) AS Revenue
+FROM fact_orders f
+JOIN dim_product p
+    ON f.Product_ID = p.Product_ID
+GROUP BY p.Product
+ORDER BY Revenue DESC
+LIMIT 5;
+```
+
+| Product | Revenue |
+|---|---|
+| Laptop | 10,866,810.28 |
+| Tablet | 5,633,543.32 |
+| Smartphone | 3,431,372.85 |
+| Air Fryer | 1,445,610.80 |
+| Watch | 1,187,306.94 |
+
+**Insight:** The top 3 products are all Electronics, confirming the category-level finding. Laptops alone account for roughly 40% of the top-5 revenue total.
+
+### Key Business Metrics (KPI Summary)
+
+```sql
+-- KEY METRICS SUMMARY
+SELECT
+    'Revenue' AS Metric,
+    SUM(Total_sales) AS Value
+FROM fact_orders
+
+UNION ALL
+
+SELECT
+    'Total Quantity',
+    SUM(Quantity)
+FROM fact_orders
+
+UNION ALL
+
+SELECT
+    'Total Orders',
+    COUNT(Order_ID)
+FROM fact_orders;
+```
+
+| Metric | Value |
+|---|---|
+| Revenue | 26,416,577.50 |
+| Total Quantity | 2,913.00 |
+| Total Orders | 964.00 |
+
+**Insight:** Average order value works out to roughly **27,402** (Revenue ÷ Total Orders) and around **3 units per order** (Total Quantity ÷ Total Orders) — a useful baseline KPI pair to track over time as the dataset grows or refreshes.
+
+---
+
 ## Resulting Schema
 
 ```
@@ -196,9 +312,10 @@ A classic star schema: one central fact table (`fact_orders`) surrounded by look
 - Connect `fact_orders` and the dimension tables to Power BI / Tableau to build a sales performance dashboard (revenue by category, top products, sales by city, trend over time).
 - Add a `dim_date` table for richer time-intelligence (month, quarter, year, day-of-week) rather than relying on a raw date column.
 - Set up the data quality audit query as a recurring check on each data refresh.
+- Investigate the Electronics revenue concentration further — break it down by sub-category or product line to assess dependency risk.
 
 ---
 
 ## Skills Demonstrated
 
-`SQL` · `Data Quality Auditing` · `Dimensional Modeling (Star Schema)` · `ETL Staging` · `Data Warehousing` · `Database Design`
+`SQL` · `Data Quality Auditing` · `Dimensional Modeling (Star Schema)` · `ETL Staging` · `Data Warehousing` · `Database Design` · `Business Insights & KPI Reporting`
